@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item app:showAsAction="collapseActionView"
+        android:id="@+id/insert_menu"
+        android:title="New Travel Deal"/>
+    <item app:showAsAction="collapseActionView"
+        android:id="@+id/logout_menu"
+        android:title="Logout">
+
+
+    </item>
+
+</menu>

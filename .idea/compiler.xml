@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true">
+        <processor name="auto-service-1.0-rc3.jar" />
+        <processor name="jetified-compiler-4.0.0-RC1.jar" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
